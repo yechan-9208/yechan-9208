@@ -31,7 +31,7 @@ AI
 Unity
 |Project Name|Tech Stack|Team|Period|Link|
 |:---:|:---:|:---:|:---:|:---:|
-| 포트나이트 빌드 시스템 카피메이킹 | Unity 포트나이트 빌드 시스템 카피 | ![Solo](https://img.shields.io/badge/Solo-blue) | 2023.07.03 ~ 2023.07.10 | [Repo](https://github.com/yechan-9208) |
+| 포트나이트 빌드 시스템 카피메이킹 | Unity 포트나이트 빌드 시스템 카피 | ![Solo](https://img.shields.io/badge/Solo-blue) | 2023.07.03 ~ 2023.07.10 | [Repo]([https://github.com/yechan-9208](https://github.com/yechan-9208/fortnite_Building_function_Copy)) |
 | 슈퍼마리오 3D 카피메이킹 | Unity 슈퍼마리오 3D 월드 | ![Team](https://img.shields.io/badge/Team-red) | 2023.05.30 ~ 2023.06.30 | [Repo](https://github.com/yechan-9208/Mario3DWorld-by-Unity) |
 
 ## 📞 Contact
