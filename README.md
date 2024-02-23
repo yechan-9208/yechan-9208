@@ -22,7 +22,7 @@
 AI
 |Project Name|Tech Stack|Team|Period|Link|
 |:---:|:---:|:---:|:---:|:---:|
-|아바타 UGC(이용자 제작 콘텐츠) 크리에이팅을 이용한 문화 교류 커뮤니티 메타버스 플랫폼| MediaPipe - Pose,Face,Hand Landmark Detection | ![Team](https://img.shields.io/badge/Team-red) | 2023/10/06 ~ ing| [Repo](https://github.com/meta-mingles/metamingle-AI)|
+|아바타 UGC(이용자 제작 콘텐츠) 크리에이팅을 이용한 문화 교류 커뮤니티 메타버스 플랫폼| MediaPipe - Pose,Face,Hand Landmark Detection | ![Team](https://img.shields.io/badge/Team-red) | 2023/10/06 ~ 2023/11/30| [Repo](https://github.com/meta-mingles/metamingle-AI)|
 |메타인지 향상을 위한 AI 글쓰기 어시스턴트| LLM Framework(Langchain), Model Serving (FastAPI), LLM Mode (gpt-4.0) | ![Team](https://img.shields.io/badge/Team-red) | 2023/09/04 ~ 2023/09/27 | [Repo](https://github.com/yechan-9208/AI)|
 | 지역별 축제 정보 공유 플랫폼 | 콘텐츠기반 추천시스템( Cosine Similarity ) | ![Team](https://img.shields.io/badge/Team-red) |2023/08/30 ~2023/09/01 |[Repo](https://github.com/yechan-9208)|
 | AI 동화 생성 | LLM Mode(Gpt-4.0), Image Generation(Dalle2)| ![Team](https://img.shields.io/badge/Team-red) | 2023/08/04 ~ 2023/08/29 | [Repo](https://github.com/yechan-9208/littleTales/blob/master/README.md)|
