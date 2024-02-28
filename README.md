@@ -1,7 +1,7 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome&fontAlign=80&fontAlignY=40&color=gradient)
 ## 👋 Introduction 
  
-#### &emsp; Hi, I'm Ye chan Won!
+#### &emsp; Hi, I'm Ye chan Won! 
 #### &emsp; I'm looking for a job as an AI Engineer!
 
 #### &emsp; 🔹 Personal Blog 👉 [Link](https://rnflajdrnfl.tistory.com/)  
