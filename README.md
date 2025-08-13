@@ -20,6 +20,14 @@
 
 ## 📃 Project
 
+Android
+|Project Name|Tech Stack|Team|Period|Link|
+|:---:|:---:|:---:|:---:|:---:|
+|eMogi - AI 캐릭터 소셜 플랫폼| Java, Kotlin, Android SDK, MVVM, Retrofit2, OkHttp3(WebSocket), Gson, SharedPreferences, ViewBinding, RecyclerView | ![Team](https://img.shields.io/badge/Team-red) | 2024/07/19 ~ 진행중 | [Repo](https://github.com/Emozis/eMoGiApp) |
+
+---
+
+### 📦 Past Projects
 AI
 |Project Name|Tech Stack|Team|Period|Link|
 |:---:|:---:|:---:|:---:|:---:|
